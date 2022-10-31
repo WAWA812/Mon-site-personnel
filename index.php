@@ -10,7 +10,7 @@
     Accueil - Wawa Rodolphe, informaticien et entrepreneur digital.
    </title>
   <meta content="Trouver un informaticien à Abidjan" name="description">
-  <meta content="Formations en informatique, Réseaux informatiques, Développement web, maintenance informatique, HTML, CSS, JAVASCRIPT, PHP." name="keywords">
+  <meta content="Formations en informatique, Réseaux informatiques, Développement web, maintenance informatique, HTML, CSS, JAVASCRIPT, PHP, formation wordpress." name="keywords">
 
   <!-- Favicons -->
   <?php require 'favicon.php';?>
@@ -42,7 +42,9 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Qui suis-je?</h2>
+          <h2 class="text-primary">
+            Qui suis-je<span style="color:orange;"> ?</span>
+          </h2>
           <p>
             Passionné de l'informatique et du digital, j'ai passé de nombreuses années à accumuler des compétences dans divers domaines de l'informatique. Face à la demande coissante des besoins en informatique, j'ai décidé de mettre ces compétences au service des étudiants, des particuliers et, des entreprises qui recherchent des formations et des solutions informatiques. Je suis disponible pour tout contact à mon cabinet et en dehors de mon cabinet.
           </p>
@@ -53,9 +55,11 @@
             <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>Développeur et administrateur réseau.</h3>
+            <h3 class="text-primary">
+            Développeur et administrateur réseau<span style="color:orange;">.</span>
+            </h3>
             <p class="fst-italic">
-              Je suis devenu expert dans la conception des logiciels et dans le deploiement des infrastructures réseaux, ainsi que dans la réalisation de solutions informatiques innovantes.
+              Je suis devenu expert dans la conception des logiciels et dans le déploiement des infrastructures réseaux, ainsi que dans la réalisation de solutions informatiques innovantes.
             </p>
             <div class="row">
               <div class="col-lg-6">
@@ -76,7 +80,7 @@
               </div>
             </div>
             <p>
-              Pour tous vos projets informatiques: conception d'applications personnalisées, deploiement d'infrastructures réseaux, acquisition d'équipements informatiques, formations, et conseils d'expertise, n'hésitez pas à nous contacter. Vos projets sont réalisés et livrés dans les délais convenus avec une garantie de satisfaction. 
+              Pour tous vos projets informatiques: conception d'applications personnalisées, déploiement d'infrastructures réseaux, acquisition d'équipements informatiques, formations, et conseils d'expertise, n'hésitez pas à me contacter. Vos projets sont réalisés et livrés dans les délais convenus avec une garantie de satisfaction. 
             </p>
           </div>
         </div>
@@ -89,9 +93,11 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Des chiffres qui parlent</h2>
+          <h2 class="text-primary">
+            Des chiffres parlent<span style="color:orange;">...</span>
+          </h2>
           <p>
-           Depuis de nombreuses années je consacre mon temps à satisfaire mes clients à differents niveaux (étudiants, particuliers,entreprises). Ces chiffres sont le resultat d'une enquête de satisfaction menée auprès de mes clients et des enregistrements effectués dans mes registre de gestion. Ces chiffres ont été obtenus grâce au travain acharné et à la rigueur dont j'ai fait preuve à chaque fois que j'ai été sollicité. 
+           Depuis de nombreuses années je consacre mon temps à satisfaire mes clients à differents niveaux (étudiants, particuliers,entreprises). Ces chiffres sont le resultat d'une enquête de satisfaction menée auprès de mes clients et des enregistrements effectués dans mes registre de gestion. Ces chiffres ont été obtenus grâce au travail acharné et à la rigueur dont j'ai fait preuve à chaque fois que j'ai été sollicité. 
           </p>
         </div>
 
@@ -100,7 +106,7 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
             <div class="count-box">
               <i class="bi bi-emoji-smile"></i>
-              <span data-purecounter-start="0" data-purecounter-end="500" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="500" data-purecounter-duration="1" class="purecounter" style="color:orange;"></span>
               <p><strong>Clients heureux</strong></p>
             </div>
           </div>
@@ -108,7 +114,7 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="count-box">
               <i class="bi bi-journal-richtext"></i>
-              <span data-purecounter-start="0" data-purecounter-end="196" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="196" data-purecounter-duration="1" class="purecounter" style="color:orange;"></span>
               <p><strong>Projets réalisés</strong></p>
             </div>
           </div>
@@ -116,7 +122,7 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="count-box">
               <i class="bi bi-headset"></i>
-              <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter" style="color:orange;"></span>
               <p><strong>Devis par mois</strong></p>
             </div>
           </div>
@@ -124,7 +130,7 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="count-box">
               <i class="bi bi-people"></i>
-              <span data-purecounter-start="0" data-purecounter-end="14" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="14" data-purecounter-duration="1" class="purecounter" style="color:orange;"></span>
               <p><strong>Partenaires</strong></p>
             </div>
           </div>
@@ -139,18 +145,22 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Formations pratiques</h2>
+          <h2 class="text-primary">
+            Formations pratiques <span style="color:orange">:</span>
+          </h2>
           <p>
-           Des formations à destination des étudiants en informatique, des particuliers, des entreprises et, des organisations qui souhaitent acquerrir des notions pratiques et ainsi se perfectionner en informatique. Nous mettons à votre disposition des modules variés
+           Des formations à destination des étudiants en informatique, des particuliers, des entreprises et, des organisations qui souhaitent acquerrir des notions pratiques et ainsi se perfectionner en informatique. Nous mettons à votre disposition des modules variés.
           </p>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-up">
-            <h3 class="resume-title">Informatique bureautique :</h3>
+            <h3 class="resume-title" style="color:orange;">
+              Informatique bureautique :
+              </h3>
             <div class="resume-item pb-0">
               <h4>Windows</h4>
-              <p><em>Niveau debutant, intermediaire et avancé.</em></p>
+              <p><em>Niveau débutant, intermediaire et avancé.</em></p>
               <ul>
                 <li>Word</li>
                 <li>Excel</li>
@@ -161,7 +171,8 @@
               </ul>
             </div>
 
-            <h3 class="resume-title">Développement web :</h3>
+            <h3 class="resume-title" style="color:orange;">
+              Développement web :</h3>
             <div class="resume-item">
               <h4>Développeur CMS</h4>
               <ul>
@@ -171,7 +182,8 @@
               </ul>
               </div>
             <div class="resume-item">
-              <h4>Langages de programmation</h4>
+              <h4 style="color:orange;">
+                Langages de programmation</h4>
               <ul>
                 <li>HTML</li>
                 <li>CSS</li>
@@ -183,7 +195,8 @@
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3 class="resume-title">Formations  multimedia :</h3>
+            <h3 class="resume-title" style="color:orange;">
+              Formations  multimedia :</h3>
             <div class="resume-item">
               <h4>Infographie</h4>
               <ul>
@@ -195,22 +208,22 @@
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Réseau informatique</h4>
+              <h4 style="color:orange;">Réseau informatique</h4>
               <ul>
                 <li>Conception de maquettes</li>
                 <li>Travaux en atelier (laboratoire réseau)</li>
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Sécuritéinformatique</h4>
+              <h4 style="color:orange;">Sécuritéinformatique</h4>
               
             </div>
             <div class="resume-item">
-              <h4>chef de projet digital</h4>
+              <h4 style="color:orange;">chef de projet digital</h4>
               
             </div>
             <div class="resume-item">
-              <h4>Comptabilité</h4>
+              <h4 style="color:orange;">Comptabilité</h4>
               <ul>
                 <li>SAARI paie</li>
                 <li>SAARI gescom</li>
@@ -219,11 +232,11 @@
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Maintenance informatique</h4>
+              <h4 style="color:orange;">Maintenance informatique</h4>
               
               <ul>
                 <li>Architecture des ordinateurs</li>
-                <li>Traveaupratiques en ateler</li>
+                <li>Travaux pratiques en ateler</li>
                
               </ul>
             </div>
@@ -238,7 +251,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Galerie</h2>
+          <h2 style="color:orange;">Galerie</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
@@ -355,42 +368,42 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Services</h2>
+          <h2 style="color:orange">Services</h2>
           <p>
           </p>
-          Avez-vous un projet ? contactez-nous dès maintenant et obtenir votre devis gratuit pour estimer le côut de vtre projet.
+          Avez-vous un projet ? contactez-moi dès maintenant et obtenez votre devis gratuitement pour estimer le coût de votre projet.
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
             <div class="icon"><i class="bi bi-briefcase"></i></div>
-            <h4 class="title"><a href="">Camera de surveillance</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <h4 class="title" ><a href="#0" style="color:orange">Camera de surveillance</a></h4>
+            <p class="description">Vente, installation et maintenance de camera de srveillance.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="bi bi-card-checklist"></i></div>
-            <h4 class="title"><a href="">Tracking</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <h4 class="title"><a href="#0" style="color:orange">Tracking</a></h4>
+            <p class="description">Vente et installation de GPS tracker sur voitures, motos, velos.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-bar-chart"></i></div>
-            <h4 class="title"><a href="">Maintenance informatique</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <h4 class="title"><a href="#0" style="color:orange">Maintenance informatique</a></h4>
+            <p class="description">Vente et reparation d'ordinateurs et d'équipements informatiques.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="bi bi-binoculars"></i></div>
-            <h4 class="title"><a href="">Support informatique</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            <h4 class="title"><a href="#0" style="color:orange">Support informatique</a></h4>
+            <p class="description">Configuration d'équipements et installation de logiciels.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>
-            <h4 class="title"><a href="">développement d'applications</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            <h4 class="title"><a href="#0" style="color:orange">développement d'applications</a></h4>
+            <p class="description">développement d'applications web et mobiles.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-            <h4 class="title"><a href="">Support de communication</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <h4 class="title"><a href="#0" style="color:orange">Support de communication</a></h4>
+            <p class="description">développement d'applications web et mobiles.</p>
           </div>
         </div>
 
@@ -402,7 +415,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Témoignages</h2>
+          <h2 style="color:orange">Témoignages</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
@@ -486,7 +499,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Contact</h2>
+          <h2 style="color:orange">Contacts</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
