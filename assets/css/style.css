@@ -18,6 +18,7 @@ a {
   text-decoration: none;
 }
 
+
 a:hover {
   color: #37b3ed;
   text-decoration: none;
@@ -1102,3 +1103,4 @@ section {
     padding-right: 20px 15px;
   }
 }
+
