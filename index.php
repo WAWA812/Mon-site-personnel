@@ -10,7 +10,7 @@
     Accueil - Wawa Rodolphe, informaticien et entrepreneur digital.
    </title>
   <meta content="Trouver un informaticien à Abidjan" name="description">
-  <meta content="Formations en informatique, Réseaux informatiques, Développement web, maintenance informatique, HTML, CSS, JAVASCRIPT, PHP, formation wordpress." name="keywords">
+    <meta content="Formations en informatique, Réseaux informatiques, Développement web, maintenance informatique, HTML, CSS, JAVASCRIPT, PHP, formation wordpress, tracking,équipements informatiques." name="keywords">
 
   <!-- Favicons -->
   <?php require 'favicon.php';?>
@@ -31,7 +31,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1>Wawa Rodolphe</h1>
-      <p>je suis <span class="typed" data-typed-items="Développeur,  Freelance, Formateur  "></span></p>
+      <p>je suis <span class="typed" data-typed-items="Développeur,  Freelance, Formateur, entrepreneur digital "></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -46,7 +46,7 @@
             Qui suis-je<span style="color:orange;"> ?</span>
           </h2>
           <p>
-            Passionné de l'informatique et du digital, j'ai passé de nombreuses années à accumuler des compétences dans divers domaines de l'informatique. Face à la demande coissante des besoins en informatique, j'ai décidé de mettre ces compétences au service des étudiants, des particuliers et, des entreprises qui recherchent des formations et des solutions informatiques. Je suis disponible pour tout contact à mon cabinet et en dehors de mon cabinet.
+            Passionné de l'informatique et du digital, j'ai passé de nombreuses années à accumuler des compétences dans divers domaines de l'informatique. Face à la demande croissante des besoins en informatique, j'ai décidé de mettre ces compétences au service des étudiants, des particuliers et, des entreprises qui recherchent des formations et des solutions informatiques. Je suis disponible pour tout contact à mon cabinet et en dehors de mon cabinet.
           </p>
         </div>
 
@@ -94,10 +94,10 @@
 
         <div class="section-title">
           <h2 class="text-primary">
-            Des chiffres parlent<span style="color:orange;">...</span>
+            Les chiffres parlent<span style="color:orange;">...</span>
           </h2>
           <p>
-           Depuis de nombreuses années je consacre mon temps à satisfaire mes clients à differents niveaux (étudiants, particuliers,entreprises). Ces chiffres sont le resultat d'une enquête de satisfaction menée auprès de mes clients et des enregistrements effectués dans mes registre de gestion. Ces chiffres ont été obtenus grâce au travail acharné et à la rigueur dont j'ai fait preuve à chaque fois que j'ai été sollicité. 
+           Depuis de nombreuses années je consacre mon temps à satisfaire mes clients à differents niveaux (étudiants, particuliers,entreprises, ONG, et autres organisations). Ces chiffres sont le resultat d'une enquête de satisfaction menée auprès de mes clients et des enregistrements effectués dans mes registres de gestion. Ces chiffres ont été obtenus grâce au travail acharné et à la rigueur dont j'ai fait preuve à chaque fois que j'ai été sollicité. 
           </p>
         </div>
 
@@ -196,13 +196,13 @@
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title" style="color:orange;">
-              Formations  multimedia :</h3>
+              Formations  multimédia :</h3>
             <div class="resume-item">
               <h4>Infographie</h4>
               <ul>
                 <li>Photoshop</li>
                 <li>Illustrator</li>
-                <li>In design</li>
+                <li>Indesign</li>
                 <li>After effect</li>
                 <li>Premier pro</li>
               </ul>
@@ -251,21 +251,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2 style="color:orange;">Galerie</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row" data-aos="fade-up">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
-            </ul>
-          </div>
-        </div>
-
+          <h2 style="color:orange;">Portfolio</h2>
+         </div>
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
@@ -340,9 +327,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/gigi2.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/gigi2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -377,8 +364,8 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
             <div class="icon"><i class="bi bi-briefcase"></i></div>
-            <h4 class="title" ><a href="#0" style="color:orange">Camera de surveillance</a></h4>
-            <p class="description">Vente, installation et maintenance de camera de srveillance.</p>
+            <h4 class="title" ><a href="#0" style="color:orange">Cameras de surveillance</a></h4>
+            <p class="description">Vente, installation et maintenance de cameras de srveillance.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="bi bi-card-checklist"></i></div>
@@ -403,7 +390,7 @@
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
             <h4 class="title"><a href="#0" style="color:orange">Support de communication</a></h4>
-            <p class="description">développement d'applications web et mobiles.</p>
+            <p class="description">Conception de flyers, etiquettes produits, impression numerique...</p>
           </div>
         </div>
 
@@ -416,7 +403,7 @@
 
         <div class="section-title">
           <h2 style="color:orange">Témoignages</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Voici ce que disent certains de mes clients après m'avoir faire confiance.</p>
         </div>
 
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -426,12 +413,12 @@
               <div class="testimonial-item" data-aos="fade-up">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                 .
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <img src="assets/img/testimonials/gigi.jpeg" class="testimonial-img" alt="">
+                <h3>Aka Gertrude</h3>
+                <h4>DG GIGI CREM</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -500,7 +487,7 @@
 
         <div class="section-title">
           <h2 style="color:orange">Contacts</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Si vous êtes étudiants en informatique et que vous souhaitez acquérir des notions pratiques, c'est le moment de me contacter. Si vous êtes une entreprise ou une organisation et que vous souhaitez opérer votre transformation digitale par la création de plateformes digitales, vous êtes à la bonne adresse.</p>
         </div>
 
         <div class="row" data-aos="fade-in">
@@ -509,36 +496,36 @@
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <h4>Localisation:</h4>
+                <p>Abidjan - Yopougon</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>info@wawarodolphe.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <h4>Téléphone:</h4>
+                <p>(+225) 01 71 34 13 89 / 05 45 53 67 01</p>
               </div>
 
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15889.179004690528!2d-3.9705757!3d5.3719435!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x698355dd4a22ffc5!2sWawa%20Rodolphe!5e0!3m2!1sfr!2sci!4v1667289297581!5m2!1sfr!2sci" width="600" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
 
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="action.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
+                  <label for="name">Votre nom</label>
                   <input type="text" name="name" class="form-control" id="name" required>
                 </div>
                 <div class="form-group col-md-6">
-                  <label for="name">Your Email</label>
+                  <label for="name">Votre Email</label>
                   <input type="email" class="form-control" name="email" id="email" required>
                 </div>
               </div>
@@ -574,19 +561,7 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/typed.js/typed.min.js"></script>
-  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+ <?php require"js.php";?>
 
 </body>
-
 </html>
