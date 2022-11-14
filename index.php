@@ -9,7 +9,7 @@
    <title>
     Accueil - Wawa Rodolphe, informaticien et entrepreneur digital.
    </title>
-  <meta content="Trouver un informaticien à Abidjan" name="description">
+  <meta content="Trouver n informaticien à Abidjan" name="description">
     <meta content="Formations en informatique, Réseaux informatiques, Développement web, maintenance informatique, HTML, CSS, JAVASCRIPT, PHP, formation wordpress, tracking,équipements informatiques." name="keywords">
 
   <!-- Favicons -->
@@ -257,98 +257,67 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/gigi3.png" class="img-fluid" alt="une image de galerie">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/gigi3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Aka Gertrude DG de GIGI CREM"><i class="bx bx-plus"></i></a>
+                <a href="#0" title="Detail"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/pc.jpg" class="img-fluid" alt="une image">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/pc.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Zouimboue Pacôme DG de LAFI GROUP"><i class="bx bx-plus"></i></a>
+                <a href="#0" title=" Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/reseau.jpg" class="img-fluid" alt="une image reseau informatique">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/reseau.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Déploiement infrastructures réseaux"><i class="bx bx-plus"></i></a>
+                <a href="#0" title=" Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/architecture.jpg" class="img-fluid" alt="un étudiant">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/architecture.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Formation en architecture des ordinateurs"><i class="bx bx-plus"></i></a>
+                <a href="#0" title=" Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/office.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/office.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Formation Word - Excel - Publisher - Powerpoint"><i class="bx bx-plus"></i></a>
+                <a href="#0" title=" Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/phone.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/phone.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Tracking "><i class="bx bx-plus"></i></a>
+                <a href="#0" title=" Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
+          </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/gigi2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/gigi2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Portfolio Section -->
+          </section><!-- End Portfolio Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
@@ -496,19 +465,19 @@
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
-                <h4>Localisation:</h4>
+                <h4 style="color:orange;">Localisation:</h4>
                 <p>Abidjan - Yopougon</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
-                <h4>Email:</h4>
+                <h4 style="color:orange;">Email:</h4>
                 <p>info@wawarodolphe.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Téléphone:</h4>
+                <h4 style="color:orange;">Téléphone:</h4>
                 <p>(+225) 01 71 34 13 89 / 05 45 53 67 01</p>
               </div>
 
