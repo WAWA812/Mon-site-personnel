@@ -9,7 +9,7 @@
    <title>
     Accueil - Wawa Rodolphe, informaticien et entrepreneur digital.
    </title>
-  <meta content="Trouver n informaticien à Abidjan" name="description">
+  <meta content="Trouver un informaticien à Abidjan" name="description">
     <meta content="Formations en informatique, Réseaux informatiques, Développement web, maintenance informatique, HTML, CSS, JAVASCRIPT, PHP, formation wordpress, tracking,équipements informatiques." name="keywords">
 
   <!-- Favicons -->
@@ -21,7 +21,7 @@
   <?php require 'style.php';?>
  </head>
 
-<body>
+ <body>
 <!-- ======= Header ======= -->
   <header id="header">
     <?php require 'header.php';?>
@@ -31,7 +31,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1>Wawa Rodolphe</h1>
-      <p>je suis <span class="typed" data-typed-items="Développeur,  Freelance, Formateur, entrepreneur digital "></span></p>
+      <p>je suis <span class="typed" data-typed-items="Développeur,  Freelance, Formateur, entrepreneur digital, administrateur réseau"></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -52,7 +52,7 @@
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+            <img src="assets/img/mon projet.jpg" class="img-fluid" alt="une dame en photo de profile">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3 class="text-primary">
@@ -149,7 +149,7 @@
             Formations pratiques <span style="color:orange">:</span>
           </h2>
           <p>
-           Des formations à destination des étudiants en informatique, des particuliers, des entreprises et, des organisations qui souhaitent acquerrir des notions pratiques et ainsi se perfectionner en informatique. Nous mettons à votre disposition des modules variés.
+           Des formations pratiques à destination des étudiants en informatique, des particuliers, des entreprises et, des organisations qui souhaitent a cquérir des notions pratiques et ainsi se perfectionner en informatique. Nous mettons à votre disposition des modules variés.
           </p>
         </div>
 
@@ -305,18 +305,17 @@
             </div>
           </div>
 
+         
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/phone.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/maintenance.jpg" class="img-fluid" alt="une image de galerie">
               <div class="portfolio-links">
-                <a href="assets/img/phone.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Tracking "><i class="bx bx-plus"></i></a>
-                <a href="#0" title=" Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/maintenance.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Maintenance et support informatique"><i class="bx bx-plus"></i></a>
+                <a href="#0" title="Detail"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
-          </div>
-          </div>
-
+          
           </section><!-- End Portfolio Section -->
 
     <!-- ======= Services Section ======= -->
@@ -382,10 +381,10 @@
               <div class="testimonial-item" data-aos="fade-up">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                 .
+                 Pour opérer ma transformation digitale, j'ai confié la conception de mon site E-commerce à M. Wawa. Non seulement l'ouvrage a été livré à temps mais je suis très satisfaite du travail.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/gigi.jpeg" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/gigi3.png" class="testimonial-img" alt="une femme dg de socirté&">
                 <h3>Aka Gertrude</h3>
                 <h4>DG GIGI CREM</h4>
               </div>
@@ -395,12 +394,12 @@
               <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  Depuis plus de 2 ans j'ai confié le service informatique de mon entreprise à M. wawa, il a toujours été à la hauteur de mes attentes. Je vous recommande de faire comme moi.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <img src="assets/img/testimonials/pc.jpg" class="testimonial-img" alt="">
+                <h3>Zouimboué Pacôme</h3>
+                <h4>DG de LAFI GROUP</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -408,12 +407,12 @@
               <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  Pour me perfectionner en informatique, J'ai suivi une formation pratique chez M Wawa, aujourd'hui je suis heureuse de profiter de mes nouvelles compé&tences. je remerci M. Wawa&. 
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
+                <img src="assets/img/testimonials/edo.jpg" class="testimonial-img" alt="">
+                <h3>Dadié Edwige</h3>
+                <h4>Commerciale</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -424,9 +423,9 @@
                   Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
+                <img src="assets/img/testimonials/projets.jpg" class="testimonial-img" alt="un homme">
+                <h3>Eric Brian</h3>
+                <h4>Archiviste</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -434,11 +433,11 @@
               <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  J'ai sollicité les services de Mr Wawa pour la création d'une application de gestion adaptée à mes activités, je vous l'avoue que j'ai été vraiment satisfaite de son travail.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
+                <img src="assets/img/testimonials/abehi.jpg" class="testimonial-img" alt="une dame assise">
+                <h3>Mme Gueu</h3>
                 <h4>Entrepreneur</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -483,35 +482,34 @@
 
               <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15889.179004690528!2d-3.9705757!3d5.3719435!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x698355dd4a22ffc5!2sWawa%20Rodolphe!5e0!3m2!1sfr!2sci!4v1667289297581!5m2!1sfr!2sci" width="600" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
-
           </div>
-
+            <!--======Debut formulaire de contact======-->
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="action.php" method="post" role="form" class="php-email-form">
+            <form action="action.php" method="POST" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
                   <label for="name">Votre nom</label>
                   <input type="text" name="name" class="form-control" id="name" required>
                 </div>
                 <div class="form-group col-md-6">
-                  <label for="name">Votre Email</label>
+                  <label for="email">Votre Email</label>
                   <input type="email" class="form-control" name="email" id="email" required>
                 </div>
               </div>
               <div class="form-group">
-                <label for="name">Subject</label>
+                <label for="subject">Sujet</label>
                 <input type="text" class="form-control" name="subject" id="subject" required>
               </div>
               <div class="form-group">
-                <label for="name">Message</label>
+                <label for="message">Message</label>
                 <textarea class="form-control" name="message" rows="10" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <div class="sent-message">Merci votre message a été reçu!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Soumettre</button></div>
             </form>
           </div>
 
